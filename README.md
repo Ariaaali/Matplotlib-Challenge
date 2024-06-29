@@ -1,2 +1,2 @@
 # Matplotlib-Challenge
-the homework file was misplaced, i will upload again shortly
+please note that ta brandon help with debugging one of the line
